@@ -1,6 +1,8 @@
 # Molinetes-CABA
 Shiny (R) Dashboard 
 
+La aplicacion la pueden visualizar en https://keku.shinyapps.io/MolinetesCABA/
+
 
 Molinetes CABA es un dashboard en shiny que permite graficar el movimiento de gente durante los años 2018 y 2019, ver un mapa de densidades con los mismos datos y ver como puede predecirse el movimiento de gente del 2019 con los datos del 2018
 
